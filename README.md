@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1986JMM
+- 👋 Hi, I’m John
 - 👀 I’m interested in C & C++ mostly using SDL2, OpenGL, zlib, libpng
 - 🌱 I’m currently learning the above
 - 💞️ I’m looking to collaborate on ... nothing atm
