@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John
-- 👀 I’m interested in C & C++ mostly using SDL2, OpenGL, zlib, libpng
+- 👀 I’m interested in C & C++ game dev mostly using SDL2, OpenGL, zlib, libpng
 - 🌱 I’m currently learning the above
 - 💞️ I’m looking to collaborate on ... nothing atm
 - 📫 How to reach me ... i'll add this later
